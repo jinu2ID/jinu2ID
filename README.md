@@ -1,6 +1,6 @@
 ## Hi there 👋
-Backend, distributed systems, .NET/C#.
-Building scalable services. Learning new things.
+<p>Backend, distributed systems, .NET/C#.</p>
+<p>Building scalable services. Learning new things.</p>
 
 <!--
 **jinu2ID/jinu2ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
