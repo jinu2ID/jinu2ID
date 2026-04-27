@@ -1,10 +1,38 @@
-# Hi, I'm Jinu Jacob 👋
+<div align="center">
+<pre>
+                            ██╗██╗███╗   ██╗██╗   ██╗
+                            ██║██║████╗  ██║██║   ██║
+                            ██║██║██╔██╗ ██║██║   ██║
+                       ██   ██║██║██║╚██╗██║██║   ██║
+                       ╚█████╔╝██║██║ ╚████║╚██████╔╝
+                        ╚════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝
+</pre>
+</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Systems;Cloud+Infrastructure;Automation;AI-Assisted+Development" alt="Typing SVG" />
+</p>
 
-I'm a software engineer with 8+ years of experience building backend systems, distributed services, desktop applications, automation tools, and cloud-based infrastructure.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,azure,aws,postgres,docker,githubactions,ruby,python" />
+</p>
 
-Most of my professional background is in C#, .NET, C++, SQL, Azure, AWS, and service-oriented architecture. More recently, I've been expanding into Ruby on Rails, PostgreSQL, GitHub Actions, Heroku, Python, and AI-assisted development workflows through production work
+<br/>
 
-## What I work on
+<p align="center">⟡ ⟡ ⟡</p>
+
+<br/>
+
+I build backend systems, internal tools, and cloud services with a focus on reliability, maintainability, and practical business impact.
+
+I have 8+ years of experience across C#, .NET, C++, SQL, Azure, AWS, distributed systems, desktop applications, and service-oriented architecture. More recently, I have been working in Ruby on Rails, PostgreSQL, GitHub Actions, Heroku, Python, and AI-assisted development workflows through production engineering work.
+
+<br/>
+
+<p align="center">⟡ ⟡ ⟡</p>
+
+<br/>
+
+<h2 align="center" > What I work on</h2>
 
 - Backend engineering with C#, .NET, ASP.NET Core, Ruby on Rails, and distributed systems
 - REST APIs, data pipelines, automation services, and internal tools
@@ -14,33 +42,29 @@ Most of my professional background is in C#, .NET, C++, SQL, Azure, AWS, and ser
 - AI-assisted engineering workflows using tools like Claude Code, OpenAI Codex, and agentic coding environments
 - Creative technical tools and AI image generation.
 
-## Technical background
+<br/>
 
-### Strongest experience
+<p align="center">⟡ ⟡ ⟡</p>
 
-```
-C#, .NET, ASP.NET Core, C++, SQL, backend services, distributed systems, REST APIs, Azure, AWS
-```
+<br/>
 
-### Currently using and growing with
+<h2 align="center">Technical Focus</h2>
 
-```
-Ruby, Python
-```
+**Primary:** C#, .NET, ASP.NET Core, C++, SQL, REST APIs, backend services  
+**Cloud:** Azure, AWS, Heroku, Docker  
+**Data:** SQL Server, PostgreSQL, Cosmos DB, Kusto / Azure Data Explorer  
+**CI/CD:** GitHub Actions, Azure DevOps, automated testing, deployment pipelines  
+**Testing:** RSpec, SimpleCov, pytest, regression testing, smoke testing  
+**Tools:** Git, GitHub, Visual Studio, VS Code, Postman, Claude Code, OpenAI Codex, Warp  
+**Expanding:** Ruby on Rails, Python, PostgreSQL, Heroku, GitHub Actions
 
-### Data, testing, and observability
+<br/>
 
-```
-SQL Server, PostgreSQL, Cosmos DB, Kusto / Azure Data Explorer, RSpec, SimpleCov, pytest, telemetry dashboards, logging alerts
-```
+<p align="center">⟡ ⟡ ⟡</p>
 
-### Tools
+<br/>
 
-```
-Git, GitHub, Azure DevOps, Visual Studio, VS Code, Docker, Postman, Claude Code, OpenAI Codex, Warp
-```
-
-## Current interests
+<h2 align="center">Current interests</h2>
 
 I'm currently exploring the intersection of software engineering, AI, and digital art.
 
@@ -53,8 +77,20 @@ Some areas I'm interested in:
 - Backend roles that support creative products, AI tools, or interactive systems
 ```
 
-## Connect
+<h2 align="center">Connect</h2>
 
-- LinkedIn: [Add your LinkedIn URL here]
-- Portfolio: [Add your portfolio URL here]
-- Email: [Add your email here]
+<p align="center">
+  <a href="https://www.linkedin.com/in/jinu-jacob/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p >
+
+<div align="center">
+
+<br/>
+
+<p align="center">⟡ ⟡ ⟡</p>
+
+<br/>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
