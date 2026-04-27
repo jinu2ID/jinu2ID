@@ -9,12 +9,6 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,azure,aws,postgres,docker,githubactions,ruby,python" />
 </p>
 
-<br/>
-
-<p align="center">⟡ ⟡ ⟡</p>
-
-<br/>
-
 I build backend systems, internal tools, and cloud services with a focus on reliability, maintainability, and practical business impact.
 
 I have 8+ years of experience across C#, .NET, C++, SQL, Azure, AWS, distributed systems, desktop applications, and service-oriented architecture. More recently, I have been working in Ruby on Rails, PostgreSQL, GitHub Actions, Heroku, Python, and AI-assisted development workflows through production engineering work.
