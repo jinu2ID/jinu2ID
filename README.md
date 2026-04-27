@@ -37,7 +37,7 @@ I have 8+ years of experience across C#, .NET, C++, SQL, Azure, AWS, distributed
 
 <br/>
 
-<h2 align="center" > What I work on</h2>
+<h2 align="left" > What I work on</h2>
 
 - Backend engineering with C#, .NET, ASP.NET Core, Ruby on Rails, and distributed systems
 - REST APIs, data pipelines, automation services, and internal tools
@@ -53,7 +53,7 @@ I have 8+ years of experience across C#, .NET, C++, SQL, Azure, AWS, distributed
 
 <br/>
 
-<h2 align="center">Technical Focus</h2>
+<h2 align="left">Technical Focus</h2>
 
 **Primary:** C#, .NET, ASP.NET Core, C++, SQL, REST APIs, backend services  
 **Cloud:** Azure, AWS, Heroku, Docker  
@@ -69,7 +69,7 @@ I have 8+ years of experience across C#, .NET, C++, SQL, Azure, AWS, distributed
 
 <br/>
 
-<h2 align="center">Current interests</h2>
+<h2 align="left">Current interests</h2>
 
 I'm currently exploring the intersection of software engineering, AI, and digital art.
 
@@ -81,6 +81,14 @@ Some areas I'm interested in:
 - ComfyUI, Stable Diffusion, Midjourney, and creative AI tools
 - Backend roles that support creative products, AI tools, or interactive systems
 ```
+
+<div align="center">
+
+<br/>
+
+<p align="center">⟡ ⟡ ⟡</p>
+
+<br/>
 
 <h2 align="center">Connect</h2>
 
